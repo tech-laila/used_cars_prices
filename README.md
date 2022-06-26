@@ -1,5 +1,5 @@
 # used_cars_prices
-Descripition of price calculation for different used cars
+Descripition of price calculation for different used cars.
 The purposes of the dataset is to support different companies define the price of sale for similar cars in a secondary market. 
 
 Sales of used cars is a market with many suppliers and customers and the pricing of vehicles 
@@ -15,7 +15,7 @@ not have information about brands like Land Rover, Aston Martin or Ferrari, ther
 not be used to predict sales for vehicles from these Brands, because the accuracy is going to 
 be very low.
 
-## USE LINEAR MODEL ##
+## LINEAR REGRESSION MODEL ##
 
 This section is reserved for the Linear Regression Model analysis, which was done after the 
 EDA Analysis in my workbook, because the EDA is very important to help understand, see 
